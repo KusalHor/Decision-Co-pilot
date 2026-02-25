@@ -1,0 +1,29 @@
+{
+  "name": "decision-copilot",
+  "version": "1.0.0",
+  "description": "AI-assisted Decision Copilot for teams: structured decision analysis, bias detection, risk simulation, and PDF reports.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "decision-making",
+    "ai",
+    "meetings",
+    "bias-detection",
+    "risk-simulation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.42.0",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pdfkit": "^0.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

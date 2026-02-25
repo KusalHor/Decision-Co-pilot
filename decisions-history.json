@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mm20alglpmukhr",
+    "createdAt": "2026-02-25T12:24:08.229Z",
+    "payload": {
+      "title": "part change",
+      "context": "part change before monsoon season",
+      "notes": "",
+      "options": [
+        {
+          "id": "opt-1",
+          "label": "low cost"
+        }
+      ],
+      "preferredOptionId": "opt-1"
+    },
+    "analysisSummary": {
+      "title": "part change",
+      "suggestedOptionLabel": "low cost",
+      "confidence": 0.2
+    },
+    "outcome": {
+      "reward": 3,
+      "recordedAt": "2026-02-25T13:12:16.428Z"
+    }
+  },
+  {
+    "id": "mm211nzp2s2xuy",
+    "createdAt": "2026-02-25T12:45:11.221Z",
+    "payload": {
+      "title": "Change of railway parts",
+      "context": "Change of railway parts before monsoon seasons",
+      "notes": "+Option A: Government is not keen not increasing the budget\n-Option B: High labour cost",
+      "options": [
+        {
+          "id": "opt-1",
+          "label": "Optimal cost"
+        },
+        {
+          "id": "opt-2",
+          "label": "Optimal labour cost"
+        }
+      ],
+      "preferredOptionId": "opt-1"
+    },
+    "analysisSummary": {
+      "title": "Change of railway parts",
+      "suggestedOptionLabel": "Optimal cost",
+      "confidence": 0.9
+    },
+    "outcome": null
+  },
+  {
+    "id": "mm21yjpbyjv895",
+    "createdAt": "2026-02-25T13:10:45.311Z",
+    "payload": {
+      "title": "Change of railway parts",
+      "context": "Change of railway parts",
+      "notes": "-Option A: Government is not keen for increasing cost.\n-Option B: Labour not available",
+      "options": [
+        {
+          "id": "opt-1",
+          "label": "Low cost"
+        },
+        {
+          "id": "opt-3",
+          "label": "good number of men for the task"
+        }
+      ],
+      "preferredOptionId": "opt-1"
+    },
+    "analysisSummary": {
+      "title": "Change of railway parts",
+      "suggestedOptionLabel": "Low cost",
+      "confidence": 0.6
+    },
+    "outcome": null
+  }
+]
